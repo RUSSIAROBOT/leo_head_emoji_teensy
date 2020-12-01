@@ -1,5 +1,5 @@
 # leo_head_emoji_teensy
- ![Image](https://github.com/robot-leo/leo_head_emoji_teensy/blob/main/picture/20200118_183507.jpg)(https://github.com/robot-leo/leo_head_emoji_teensy/blob/main/picture/20200118_183511.jpg)(https://github.com/robot-leo/leo_head_emoji_teensy/blob/main/picture/20200118_183513.jpg)
+ ![Image](https://github.com/robot-leo/leo_head_emoji_teensy/blob/main/picture/20200118_183507.jpg)![Image](https://github.com/robot-leo/leo_head_emoji_teensy/blob/main/picture/20200118_183511.jpg)![Image](https://github.com/robot-leo/leo_head_emoji_teensy/blob/main/picture/20200118_183513.jpg)
  Для отображения выражений лица робота был применён Teensy 3.2 https://www.pjrc.com/teensy/ 
  
  Программа основана на библиотеке https://github.com/pixelmatix/SmartMatrix
